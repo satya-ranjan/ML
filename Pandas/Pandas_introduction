@@ -1,0 +1,17 @@
+What is pandas:
+---------------
+pandas is a powerfull data analysis toolkit.
+Open source
+
+It can Read and Write different data structures and different formats Like:-
+                            csv,tsv,txt,XML,JSON,ZIP etc
+
+
+
+NumPy array is used for the implementation of pandas data object
+
+To install Pandas 
+    in cmd Type :- pip install pandas
+
+How to use Pandas
+        import pandas as pd
