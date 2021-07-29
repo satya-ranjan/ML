@@ -1,0 +1,26 @@
+What is Matplotlib ?
+    ->Matplotlib is 3D and 2D plotting python library.
+    ->It produce high quality graph.
+    ->It also support animation.
+It is written in python
+
+Matplotlib graph
+    ->Histrogram
+    ->Bar Charts
+    ->Scatterplots
+    ->Area plot
+    ->pie plot
+    ->Error Charts
+    ->Power Spectre
+
+Dependancy
+    It depend on NumPy
+
+Installation of Matplotlib
+    in terminal   pip install matplotlib
+
+how to import?
+    2 ways:-
+        from matplotlib import pyplot as plt
+                        or                  
+        import matplotlib.pyplot as plt
