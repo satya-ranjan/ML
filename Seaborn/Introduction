@@ -1,0 +1,33 @@
+What is Seaborn ?
+
+Seaborn is a python library for data visualization build on top of the matplotlib python library
+
+Use for statical graphics
+
+
+Seaborn graphics
+-------------------
+
+>Heatmap
+>pair plot
+>Facet grid
+>Bar plot
+>Scatter plot
+>Line plot
+>Dist plot
+>Box plot
+>Violin plot
+
+Dependancy of Seaborn
+----------------------
+
+>python
+>NumPy
+>SciPy
+>Pandas
+>matplotlib
+
+Import Seaborn
+---------------
+
+import Seaborn as sns
