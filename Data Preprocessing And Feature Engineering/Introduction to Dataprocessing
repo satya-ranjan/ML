@@ -1,0 +1,81 @@
+What is Data Preprocessing ?
+-------------------------
+
+Data
+
+    Text
+    Image
+    Video
+    Audio
+
+Data Preprocessing 
+
+    Data Preprocessing is a processing is a process to covert raw data into meaningul data using 
+    different techiques.
+
+Why is data Preprocessing Important ?
+-----------------------------------
+
+-> Data in the real world is dirty          ->Data Quality Elements
+    -> Incomplete                              -> Accurecy
+    -> Noisy                                   -> Competeness
+    -> Inconsistent                            -> Cosistency
+    -> Duplicate                               -> Believability
+                                               -> Interpretability
+
+Machine Learning algorithm follow the rule(learn like Kids)
+    ->GIGO = Garbage in Garbage Out
+
+Step/Technique in Data Preprocessing
+-----------------------------------
+-> Major steps in data Preprocessing
+    -> Data cleaning
+    -> Data Integration
+    -> Data Reduction
+    -> Data Transformation
+    -> Data Discretization
+
+
+    What is data cleaning ?
+    -----------------------
+    Data cleaning means filling in missing value ,smooth out noise while identifying outliers ,
+    correct inconsistencies in the data 
+
+    What is data Integration ?
+    ------------------------ 
+    Data integration is a Technique to merges data from multiple sources into a coherent data store,
+    such as a data warehouse.
+
+    What is data Reduction ?
+    ----------------------
+    Data Reduction is a Technique use to reduce the data size by aggegation ,eliminating fetures,
+    or clustrering for instance.
+
+    What is data transformation ?
+    ---------------------------
+    Data Trannsformation means data are tranformed or consolidate into forms appropriate for ML model
+    training ,such as normalization ,may be applied where data are scaled to fall within a smaller range
+    like 0.0 to 1.0 .
+        -> Aggregation
+        -> Feature type convertion
+        -> normalization
+        -> Attribute/ Feature construction
+
+    What is Data Discretization ?
+    ---------------------------
+    ->Data Discretization Technique transforms numeric data by mapping values to interval or concept 
+      lables.
+    -> It can be used to reduce the number of values for a given continous attribute by the attribute
+      by dividing the range of the attribute into intervals.
+    -> Discretization techniques include 
+        ->Binning
+        ->Histogram analysis
+        ->cluster analysis
+        ->Decision-tree analysis
+        ->Correlation analysis
+        
+
+    
+    
+
+        
