@@ -16,4 +16,14 @@ Quality data always help to improve the accuracy ad performance of MAchine Learn
 
 Machine learning algorithm follow the rule (learn like Kide)
     -> GIGO
-    
+
+What are the process of feature Engineering ?
+-------------------------------------------
+Major Process of feture Engineering
+    > Brainstroming or testing feture
+    > Deciding what feature to creat
+    > Creatig feature
+    > Checking how the feature work with your Model
+    > Improving your feature if needed
+    > go back to Brainstroming/Creatig more features until the work is done
+
