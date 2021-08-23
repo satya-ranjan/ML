@@ -1,0 +1,19 @@
+Whit is fearture engineering ?
+----------------------------
+
+Fearture is an attribute or property shared by all of the independent units on which analysis or 
+pradiction is to be done
+
+Feature Engineering is the process to creat feture/extract the Feature from existing features by 
+domain kowledge to increase the performance of Machine Learning Model
+
+Feature Engineering is a art 
+
+Why is Feature Engineering Important ?
+------------------------------------
+
+Quality data always help to improve the accuracy ad performance of MAchine Learning Model.
+
+Machine learning algorithm follow the rule (learn like Kide)
+    -> GIGO
+    
