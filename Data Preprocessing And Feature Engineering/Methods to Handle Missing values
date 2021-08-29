@@ -1,0 +1,11 @@
+# Methods to handle missing value 
+    ->Ignore missing values row / Detete row
+    ->fill missing value manually
+    ->Global constant
+    ->Measure of centrel tendency (Mean,Midian and Mode)
+    ->Measure of central tendency for each class
+    ->Most probable value(ML Algorithms)
+
+
+Ignore Missing values row / Delete row
+--------------------------------------
